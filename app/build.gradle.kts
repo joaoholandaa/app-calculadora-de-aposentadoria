@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.holandadev.calculadoraaposentadoria"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.holandadev.calculadoraaposentadoria"
